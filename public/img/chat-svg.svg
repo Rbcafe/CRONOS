@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 18" width="20" height="18">
+	<title>chat-svg</title>
+	<defs>
+		<image  width="20" height="18" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAMAAABsDg4iAAAAAXNSR0IB2cksfwAAASxQTFRFmZmpwcHL/f39/Pz8/Pz9+/v8+vr7////+/v8mZmpAAAAxMTO/f3+/v7+mZmp/v7/7u7w7+/y9vb47u7x+fn6mZmp5OToycnR29vh1tbcmZmp3d3imZmpt7fC0NDYmZmp6+vuxMTO9PT2mZmp39/kmZmp1dXb9PT2zc3V9/f44uLn7e3w7+/x19fd1tbd/f396Ojs8vLz+Pj49/f5+Pj58vL0zMzU2NjfmZmpxcXOmZmpx8fQ4+Pn+vr629vi5ubqxcXOmZmpmZmp8PDy8fHz7e3wmZmp1NTaysrTmZmp8vL01dXb8/P16uru+Pj67+/xmZmp8fHz9PT18PDz9vb38PDx6urt29vh5+fq2trg2dnf3t7j0NDX1NTbw8PMzs7WmZmpmZmp4uLm2NjeJhTAIAAAAGR0Uk5TSOj////////+cADp//8Q////////IPPB0uUwzUBSqBj/1v50xQjp/9v/+fry4eP+////////1PEn0zTJ+P/l7NFQKP/s/zzsvFQ0zP////8M//////8q5v//2MnH/+ivHGD7/+hy5H0AAAEgSURBVHicVdDZVsIwEAbgmKQdjRnbWmqw4lK3ClpX6gqKgDsIiLgrLu//DgYqF/6XX85/ZjKEDFHGuWGaJoXhEdEPGQVJEQCoDuJYghbYzrjrurZtuynwEgSYUEqlddQkA3+AU5kk0zMO+H4mM6sRDaSUITDLmAMvoDi/QIAv9hpLyyFSB/0VmTVzhKZW16IgWt9gaLjoBSzETcJ0mUrK0dza3mFewPMYk13sae9BmuHe/oF0qE0OjwpWEQvHx9FJVDotV6wKd4gQ1eJZOvmJOL/gmGehxsvc1fVNTaLeK6wjv+UNjc2m8FrhXTtbq8X3HRrr6f3aw2O9Ybtup916ks/xS4Ki/Fp9U6oa1N/lR/fzDwf5+v5R+iD/UXilrhC/nzglOGJspeYAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Background" href="#img1" x="0" y="0" />
+</svg>
